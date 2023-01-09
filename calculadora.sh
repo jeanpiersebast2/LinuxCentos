@@ -3,6 +3,7 @@ read numero1
 echo "b) Inserta el segundo numero"
 read numero2 
 
+
 clear 
 
 opcion=0
